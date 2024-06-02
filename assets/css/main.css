@@ -1860,7 +1860,7 @@ body {
 			}
 
 				#nav a.active:after {
-					border-bottom-width: 0.5em;
+					border-bottom-width: 0;
 				}
 
 		@media screen and (max-width: 980px) {
