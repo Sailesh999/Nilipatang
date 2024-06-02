@@ -2055,6 +2055,8 @@ body {
 						text-align: center;
 						line-height: 2.75em;
 						font-size: 1.5em;
+						border-top-left-radius: .5em;
+						border-bottom-left-radius: .5em;
 						z-index: 1;
 						-moz-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
 						-webkit-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
