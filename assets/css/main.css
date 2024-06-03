@@ -2031,6 +2031,7 @@ body {
 						left: 0;
 						width: 100%;
 						height: 100%;
+						border-radius:1em;
 						-moz-object-fit: cover;
 						-webkit-object-fit: cover;
 						-ms-object-fit: cover;
@@ -2048,9 +2049,8 @@ body {
 						top: 50%;
 						margin-top: -1.375em;
 						width: 2.75em;
-						height: 2.75em;
-						background: #000;
-						background: rgba(0, 0, 0, 0.75);
+						height: 2.75em;						 
+						background: rgba(6,6,6, 0.20);
 						color: #ffffff;
 						text-align: center;
 						line-height: 2.75em;
